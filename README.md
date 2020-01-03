@@ -14,6 +14,7 @@ https://data.hawaii.gov
 https://www.hawaiitourismauthority.org
 http://dbedt.hawaii.gov/economic/data_reports
 https://www.hawaii-guide.com/
+
 API Data
 
 https://api.yelp.com/v3/businesses/search
