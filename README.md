@@ -10,15 +10,27 @@ https://docs.google.com/presentation/d/1k3veTxu7CE0OAR533CmbQAFAVCxYDfMjtdS_X4VK
 Source Data
 
 http://insideairbnb.com/get-the-data.html
+
+
 https://data.hawaii.gov
+
+
 https://www.hawaiitourismauthority.org
+
+
 http://dbedt.hawaii.gov/economic/data_reports
+
+
 https://www.hawaii-guide.com/
 
 API Data
 
 https://api.yelp.com/v3/businesses/search
+
+
 https://maps.googleapis.com/maps/api/geocode/json?
+
+
 Tools Reference
 
 Front End : HTML,CSS and Javascript
