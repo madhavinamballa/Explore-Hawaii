@@ -11,8 +11,7 @@ To Develop an Interactive Travel Guide Website to explore the places and plan va
 ## <ins> Final Deployed Application Link </ins>
 https://explore-hawaii.herokuapp.com/
 
-![Home Page Image](Explore_Hawaii_Home_Page.JPG)
-<img width="894" alt="Screen Shot 2020-01-03 at 9 46 35 AM" src="https://user-images.githubusercontent.com/36050687/71746180-091e4a80-2e21-11ea-88e8-bb1f9db1c7ae.png">
+![Image 1-3-20 at 9 47 AM](https://user-images.githubusercontent.com/36050687/71746259-4d114f80-2e21-11ea-9bed-13ec635234fe.jpeg)
 
 ## <ins> Presentation Link </ins>
 https://docs.google.com/presentation/d/1k3veTxu7CE0OAR533CmbQAFAVCxYDfMjtdS_X4VKX7Q/edit?ts=5dfb2fe5#slide=id.g7bc7a73f99_4_18
