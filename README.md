@@ -5,11 +5,11 @@ Final Deployed Application Link
 https://explore-hawaii.herokuapp.com/
 
 
-Presentation Link
+# Presentation Link
 
 https://docs.google.com/presentation/d/1k3veTxu7CE0OAR533CmbQAFAVCxYDfMjtdS_X4VKX7Q/edit?ts=5dfb2fe5#slide=id.g7bc7a73f99_4_18
 
-Source Data
+# Source Data
 
 http://insideairbnb.com/get-the-data.html
 
@@ -25,7 +25,7 @@ http://dbedt.hawaii.gov/economic/data_reports
 
 https://www.hawaii-guide.com/
 
-API Data
+# API Data
 
 https://api.yelp.com/v3/businesses/search
 
@@ -33,7 +33,7 @@ https://api.yelp.com/v3/businesses/search
 https://maps.googleapis.com/maps/api/geocode/json?
 
 
-Tools Reference
+# Tools Reference
 
 Front End : HTML,CSS and Javascript
 
